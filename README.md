@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This portfolio showcases my skills, pr
 
 ## 🌟 Live Demo
 
-You can view the live version of the portfolio here: [Anuj Singh's Portfolio](https://your-portfolio-link.com)
+You can view the live version of the portfolio here: [Anuj Singh's Portfolio](https://anujsingh21.github.io/My-Porfolio/)
 
 
 ## 🛠️ Technologies Used
